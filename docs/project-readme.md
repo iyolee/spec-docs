@@ -1,6 +1,6 @@
 # 项目 README 模板
 
-## 必要素
+## 概览
 - 项目名：[project name]
 - Git 仓库地址：[repository's url from origin]
 - 本项目第一负责人为 `[owner]`

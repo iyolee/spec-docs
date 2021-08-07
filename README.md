@@ -1,5 +1,5 @@
-# engineering-project
-> Learn how to engineer projects.
+# 规范文档
+> 工程化规范文档
 
 - [Git](#Git)
 - [文档](#文档)
